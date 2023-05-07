@@ -22,6 +22,7 @@ Working On:
 - Texture changes (Hammers)
 
 Done:
+- Initial release for mod.
 - Attack patterns for currently released weapons.
 
 ## Content
