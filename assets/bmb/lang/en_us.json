@@ -1,0 +1,82 @@
+{
+    "itemGroup.bmb.bmb": "Break My Bones",
+
+    "item.bmb.long_stick": "Long Stick",
+
+    "item.bmb.diamond_battle_axe": "Diamond Battle Axe",
+    "item.bmb.golden_battle_axe": "Golden Battle Axe",
+    "item.bmb.iron_battle_axe": "Iron Battle Axe",
+    "item.bmb.netherite_battle_axe": "Netherite Battle Axe",
+    "item.bmb.stone_battle_axe": "Stone Battle Axe",
+    "item.bmb.wooden_battle_axe": "Wooden Battle Axe",
+    
+    "item.bmb.diamond_bo_staff": "Diamond Bo Staff",
+    "item.bmb.golden_bo_staff": "Golden Bo Staff",
+    "item.bmb.iron_bo_staff": "Iron Bo Staff",
+    "item.bmb.netherite_bo_staff": "Netherite Bo Staff",
+    "item.bmb.stone_bo_staff": "Stone Bo Staff",
+    "item.bmb.wooden_bo_staff": "Wooden Bo Staff",
+
+    "item.bmb.diamond_claymore": "Diamond Claymore",
+    "item.bmb.golden_claymore": "Golden Claymore",
+    "item.bmb.iron_claymore": "Iron Claymore",
+    "item.bmb.netherite_claymore": "Netherite Claymore",
+    "item.bmb.stone_claymore": "Stone Claymore",
+    "item.bmb.wooden_claymore": "Wooden Claymore",
+    
+    "item.bmb.diamond_dagger": "Diamond Dagger",
+    "item.bmb.golden_dagger": "Golden Dagger",
+    "item.bmb.iron_dagger": "Iron Dagger",
+    "item.bmb.netherite_dagger": "Netherite Dagger",
+    "item.bmb.stone_dagger": "Stone Dagger",
+    "item.bmb.wooden_dagger": "Wooden Dagger",
+
+    "item.bmb.diamond_double_blade": "Diamond Double Blade",
+    "item.bmb.golden_double_blade": "Golden Double Blade",
+    "item.bmb.iron_double_blade": "Iron Double Blade",
+    "item.bmb.netherite_double_blade": "Netherite Double Blade",
+    "item.bmb.stone_double_blade": "Stone Double Blade",
+    "item.bmb.wooden_double_blade": "Wooden Double Blade",
+
+    "item.bmb.diamond_glaive": "Diamond Glaive",
+    "item.bmb.golden_glaive": "Golden Glaive",
+    "item.bmb.iron_glaive": "Iron Glaive",
+    "item.bmb.netherite_glaive": "Netherite Glaive",
+    "item.bmb.stone_glaive": "Stone Glaive",
+    "item.bmb.wooden_glaive": "Wooden Glaive",
+    
+    "item.bmb.diamond_hammer": "Diamond Hammer",
+    "item.bmb.golden_hammer": "Golden Hammer",
+    "item.bmb.iron_hammer": "Iron Hammer",
+    "item.bmb.netherite_hammer": "Netherite Hammer",
+    "item.bmb.stone_hammer": "Stone Hammer",
+    "item.bmb.wooden_hammer": "Wooden Hammer",
+
+    "item.bmb.diamond_rapier": "Diamond Rapier",
+    "item.bmb.golden_rapier": "Golden Rapier",
+    "item.bmb.iron_rapier": "Iron Rapier",
+    "item.bmb.netherite_rapier": "Netherite Rapier",
+    "item.bmb.stone_rapier": "Stone Rapier",
+    "item.bmb.wooden_rapier": "Wooden Rapier",
+
+    "item.bmb.diamond_sabre": "Diamond Sabre",
+    "item.bmb.golden_sabre": "Golden Sabre",
+    "item.bmb.iron_sabre": "Iron Sabre",
+    "item.bmb.netherite_sabre": "Netherite Sabre",
+    "item.bmb.stone_sabre": "Stone Sabre",
+    "item.bmb.wooden_sabre": "Wooden Sabre",
+    
+    "item.bmb.diamond_spear": "Diamond Spear",
+    "item.bmb.golden_spear": "Golden Spear",
+    "item.bmb.iron_spear": "Iron Spear",
+    "item.bmb.netherite_spear": "Netherite Spear",
+    "item.bmb.stone_spear": "Stone Spear",
+    "item.bmb.wooden_spear": "Wooden Spear",
+
+    "item.bmb.diamond_zweihander": "Diamond Zweihänder",
+    "item.bmb.golden_zweihander": "Golden Zweihänder",
+    "item.bmb.iron_zweihander": "Iron Zweihänder",
+    "item.bmb.netherite_zweihander": "Netherite Zweihänder",
+    "item.bmb.stone_zweihander": "Stone Zweihänder",
+    "item.bmb.wooden_zweihander": "Wooden Zweihänder"
+}
