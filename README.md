@@ -1,11 +1,12 @@
-# GENERAL INFO
-Code repository for Break my Bones, a Minecraft 1.18.2 mod that adds a variety of weapons to the game.
+# Welcome!
+This is the code repository for Break my Bones, a Minecraft 1.18.2 mod that adds a variety of weapons to the game.
 
-# HOW TO COMPILE AND USE
+### General Info
+Break My Bones is a mod that adds a large variety of weapons to choose from. From daggers to bo staffs, all the weapons have as much variety as I could give them!
+
+This mod uses Json Things (to register all the items for the mod) and Better Combat (provides the unique attack patterns that will spice up combat!) to allow for a nice mod that I can easily work and continue to improve on! The weapons also appear as 16x16 in the inventory, but when held appear as 32x32; meaning items are not huge in the inventory or appear as a very low resolution.
+
+### How to Compile from GitHub
 1. Click the button that says `<> Code`.
 2. Scroll down to `Download ZIP` and click it.
 3. In the file explorer of your choice, rename the file from `.zip` to `.jar`.
-4. Put it in a 1.18.2 Forge modded Minecraft instance along with the following mods:
-   1. [Better Combat](https://legacy.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
-   2. [playerAnimator](https://legacy.curseforge.com/minecraft/mc-mods/playeranimator)
-   3. [Json Things](https://legacy.curseforge.com/minecraft/mc-mods/json-things)
