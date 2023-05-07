@@ -23,3 +23,17 @@ Working On:
 
 Done:
 - Attack patterns for currently released weapons.
+
+## Content
+### Weapons (All that are released)
+- Claymores: large, two-handed swords that have slightly reduced attack speed but slightly increased damage compared to a sword.
+- Daggers: short, one-handed knives that have reduced range and damage compared to a sword, but high attack speed.
+- Hammers: smaller, two-handed blunt weapons that have slightly more attack speed than an axe, but slightly less damage than an axe. Also functions as an axe, meaning you can disable shields with them (and chop)!
+- Rapiers: one-handed thin blades that has slightly more attack speed than a sword, but less damage.
+- Spears: long, one-handed pointed sticks, has increased range but less damage than a sword.
+- Double Blades: large, two-handed double-edged swords, has faster attack speed than a sword.
+- Battle Axes: large, two-handed double-sided axes with extremely low attack speed but massive damage. Has a penalty of a movement speed decrease.
+- Glaive: long, two-handed pointed sticks with slightly lower attack speed but long range.
+- Sabres: curved, two-handed blades with fast attack speed.
+- Bo Staffs: blunt, long, two-handed sticks with high knockback. Provides knockback resistance when held.
+- Zweihänders: thin, very long, two handed swords that have a large damage increase with an attack speed decrease. Has a penalty of a movement speed decrease.
