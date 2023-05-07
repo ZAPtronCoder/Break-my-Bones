@@ -1,0 +1,16 @@
+{
+    "type": "axe",
+    "tier": "wood",
+    "damage": 7,
+    "speed": -3.4,
+    "creative_menu_stacks": [
+        {
+          "nbt": { "Damage": 0 },
+          "tabs": [ "bmb:bmb" ]
+        }
+      ],
+    "attribute_modifiers": [
+      { "slot":"mainhand", "attribute": "generic.movement_speed", "name": "baxe_spd_reduce", "amount": -0.2, "operation": "multiply_total" }
+    ],
+    "max_stack_size": 1
+}

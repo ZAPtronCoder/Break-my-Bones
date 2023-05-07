@@ -1,0 +1,13 @@
+{
+    "type": "sword",
+    "tier": "gold",
+    "damage": 2,
+    "speed": -2.2,
+    "creative_menu_stacks": [
+        {
+          "nbt": { "Damage": 0 },
+          "tabs": [ "bmb:bmb" ]
+        }
+      ],
+    "max_stack_size": 1
+}

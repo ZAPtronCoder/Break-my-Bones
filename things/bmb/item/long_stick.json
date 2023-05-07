@@ -1,0 +1,9 @@
+{
+    "creative_menu_stacks": [
+        {
+          "nbt": {},
+          "tabs": [ "bmb:bmb" ]
+        }
+      ],
+    "max_stack_size": 32
+}

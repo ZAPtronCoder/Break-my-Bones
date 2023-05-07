@@ -1,0 +1,16 @@
+{
+    "type": "sword",
+    "tier": "netherite",
+    "damage": 6,
+    "speed": -3.0,
+    "creative_menu_stacks": [
+        {
+          "nbt": { "Damage": 0 },
+          "tabs": [ "bmb:bmb" ]
+        }
+      ],
+    "attribute_modifiers": [
+      { "slot":"mainhand", "attribute": "generic.movement_speed", "name": "zwei_spd_reduce", "amount": -0.2, "operation": "multiply_total" }
+    ],
+    "max_stack_size": 1
+}

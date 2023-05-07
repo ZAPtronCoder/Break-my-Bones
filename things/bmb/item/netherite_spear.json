@@ -1,0 +1,13 @@
+{
+    "type": "sword",
+    "tier": "netherite",
+    "damage": 2,
+    "speed": -2.4,
+    "creative_menu_stacks": [
+        {
+          "nbt": { "Damage": 0 },
+          "tabs": [ "bmb:bmb" ]
+        }
+      ],
+    "max_stack_size": 1
+}

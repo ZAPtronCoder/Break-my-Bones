@@ -1,0 +1,17 @@
+{
+    "tier": "iron",
+    "type": "sword",
+    "damage": 0,
+    "speed": -2.4,
+    "creative_menu_stacks": [
+        {
+          "nbt": { "Damage": 0 },
+          "tabs": [ "bmb:bmb" ]
+        }
+      ],
+    "attribute_modifiers": [
+      { "slot":"mainhand", "attribute": "generic.knockback_resistance", "name": "bo_kb_res", "amount": 0.2, "operation": "addition" },
+      { "slot":"mainhand", "attribute": "generic.attack_knockback", "name": "bo_kb", "amount": 1, "operation": "addition" }
+    ],
+    "max_stack_size": 1
+}

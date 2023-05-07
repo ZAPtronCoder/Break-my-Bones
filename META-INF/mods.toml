@@ -1,0 +1,22 @@
+modLoader="lowcodefml"
+loaderVersion="43"
+license="ARR"
+[[mods]]
+modId="sob"
+version="1.0.0"
+displayName="Break My Bones"
+description='''
+Cool weapons that are cool.
+'''
+[[dependencies.sob]]
+    modId = "jsonthings"
+    mandatory = true
+    versionRange = "[0.4.12,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.sob]]
+    modId = "bettercombat"
+    mandatory = true
+    versionRange = "[1.6.2+1.18.2,)"
+    ordering = "NONE"
+    side = "BOTH"
