@@ -1,0 +1,6 @@
+{
+  "parent": "bmb:item/sabre",
+  "textures": {
+    "layer0": "bmb:item/golden_sabre_handheld"
+  }
+}

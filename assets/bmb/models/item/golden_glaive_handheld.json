@@ -1,0 +1,6 @@
+{
+  "parent": "bmb:item/glaive",
+  "textures": {
+    "layer0": "bmb:item/golden_glaive_handheld"
+  }
+}

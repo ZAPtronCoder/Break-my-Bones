@@ -1,0 +1,6 @@
+{
+  "parent": "bmb:item/claymore",
+  "textures": {
+    "layer0": "bmb:item/netherite_claymore_handheld"
+  }
+}

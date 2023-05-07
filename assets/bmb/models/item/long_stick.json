@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "loader": "forge:separate-perspective",
+  "base": {
+    "parent": "bmb:item/long_stick_handheld"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "bmb:item/long_stick_gui"
+    },
+    "fixed": {
+      "parent": "bmb:item/long_stick_gui"
+    }
+  }
+}

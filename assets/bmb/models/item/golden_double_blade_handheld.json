@@ -1,0 +1,6 @@
+{
+  "parent": "bmb:item/middle",
+  "textures": {
+    "layer0": "bmb:item/golden_double_blade_handheld"
+  }
+}
