@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " -#",
+    "_ #"
+  ],
+  "key": {
+    "_": {
+      "item": "stick"
+    },
+    "-": {
+      "item": "bmb:long_stick"
+    },
+    "#": {
+      "item": "iron_ingot"
+    }
+  },
+  "result": {
+    "item": "bmb:iron_glaive"
+  }
+}

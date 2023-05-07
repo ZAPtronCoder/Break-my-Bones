@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " - ",
+    "#  "
+  ],
+  "key": {
+    "-": {
+      "item": "bmb:long_stick"
+    },
+    "#": {
+      "tag": "planks"
+    }
+  },
+  "result": {
+    "item": "bmb:wooden_bo_staff"
+  }
+}

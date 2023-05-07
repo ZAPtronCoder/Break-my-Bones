@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    "#_#",
+    "#  "
+  ],
+  "key": {
+    "_": {
+      "item": "stick"
+    },
+    "#": {
+      "item": "diamond"
+    }
+  },
+  "result": {
+    "item": "bmb:diamond_double_blade"
+  }
+}

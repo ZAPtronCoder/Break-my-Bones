@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #",
+    "_ "
+  ],
+  "key": {
+    "_": {
+      "item": "stick"
+    },
+    "#": {
+      "item": "gold_ingot"
+    }
+  },
+  "result": {
+    "item": "bmb:golden_dagger"
+  }
+}

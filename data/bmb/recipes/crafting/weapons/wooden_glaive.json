@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " -#",
+    "_ #"
+  ],
+  "key": {
+    "_": {
+      "item": "stick"
+    },
+    "-": {
+      "item": "bmb:long_stick"
+    },
+    "#": {
+      "tag": "planks"
+    }
+  },
+  "result": {
+    "item": "bmb:wooden_glaive"
+  }
+}

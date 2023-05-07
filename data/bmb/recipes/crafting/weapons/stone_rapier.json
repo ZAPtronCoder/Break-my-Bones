@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "_  "
+  ],
+  "key": {
+    "_": {
+      "item": "stick"
+    },
+    "#": {
+      "tag": "stone_tool_materials"
+    }
+  },
+  "result": {
+    "item": "bmb:stone_rapier"
+  }
+}

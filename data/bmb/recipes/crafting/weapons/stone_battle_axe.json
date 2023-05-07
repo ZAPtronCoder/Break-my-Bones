@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "## ",
+    "#-#",
+    "_##"
+  ],
+  "key": {
+    "_": {
+      "item": "stick"
+    },
+    "-": {
+      "item": "bmb:long_stick"
+    },
+    "#": {
+      "tag": "stone_crafting_materials"
+    }
+  },
+  "result": {
+    "item": "bmb:stone_battle_axe"
+  }
+}
