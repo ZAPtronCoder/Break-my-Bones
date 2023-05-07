@@ -19,3 +19,7 @@ Not Done:
 Working On:
 - Mod compatability (Malum).
 - Addtional weapons (Polearm, Knuckles, Sledgehammer).
+- Texture changes (Hammers)
+
+Done:
+- Attack patterns for currently released weapons.
