@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bmb:item/wooden_double_blade_gui"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "bmb:item/sabre",
+  "textures": {
+    "layer0": "bmb:item/netherite_sabre_handheld"
+  }
+}

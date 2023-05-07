@@ -1,0 +1,6 @@
+{
+  "parent": "bmb:item/middle",
+  "textures": {
+    "layer0": "bmb:item/wooden_bo_staff_handheld"
+  }
+}
